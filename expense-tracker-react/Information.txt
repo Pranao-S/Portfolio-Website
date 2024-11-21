@@ -1,0 +1,3 @@
+This is a react js app for Expense Tracker.
+
+It is written in ReactJS, CSS and HTML and is a sample project for ReactJS learning projects.
