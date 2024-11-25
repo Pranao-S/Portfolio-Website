@@ -1,3 +1,10 @@
 This is a react js app for Expense Tracker.
 
 It is written in ReactJS, CSS and HTML and is a sample project for ReactJS learning projects.
+
+Commands to create react app -
+
+1. npx create-react-app <your app name>
+2. npm install react-scripts was required to install the react-scritps. The react-scripts was mentioned
+   in the package-lock.json and packge.json
+3. npm start will open the react app in new window
